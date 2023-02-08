@@ -17,16 +17,16 @@ Hello there! 4th year CS undergrad student at BUET. Planning to start as a Softw
    C/C++, Java, Python, Node.js
 
 - Databases : 
-   MongoDB, Oracle PL/SQL
+   MongoDB, Oracle PL/SQL, SqLite
 
 - Backend:
-   Express.js, Django
+   Express.js, Django, Node.js
    
 - Front End : 
   HTML, CSS, React.js
 
 - Tools:
-   Git, Docker, GitKraken
+   Git
   
 
 ## Contact ##
