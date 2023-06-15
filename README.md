@@ -3,7 +3,7 @@
 
 ### About Me
 
-Hello there! 4th year CS undergrad student at BUET. Planning to start as a Software Engineer in the future.
+Hello there! Fresh Graduate in CSE from BUET. Assistant Software Engineer in CNSBD Ltd.
 
 ### Interests
 - Data Structures & Algorithms
