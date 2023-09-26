@@ -3,7 +3,8 @@
 
 ### About Me
 
-Hello there! Fresh Graduate in CSE from BUET. Assistant Software Engineer in CNSBD Ltd.
+Hello there! Assistant Software Engineer in CNSBD Ltd. 
+Graduate in CSE from BUET.
 
 ### Interests
 - Data Structures & Algorithms
@@ -20,13 +21,13 @@ Hello there! Fresh Graduate in CSE from BUET. Assistant Software Engineer in CNS
    MongoDB, Oracle PL/SQL, SqLite
 
 - Backend:
-   Express.js, Django, Node.js
+   Express.js, Django, Node.js, Spring Boot
    
 - Front End : 
-  HTML, CSS, React.js
+  HTML, CSS, React.js, JSP Templating
 
 - Tools:
-   Git
+   Git, SVN
   
 
 ## Contact ##
