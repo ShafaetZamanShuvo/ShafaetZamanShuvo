@@ -3,7 +3,8 @@
 
 ### About Me
 
-Hello there! Assistant Software Engineer in CNSBD Ltd. 
+Hello there! Assistant Manager (Technical-CSE) in Bakhrabad Gas Distribution Company Ltd.
+Ex Assistant Software Engineer in CNSBD Ltd.
 Graduate in CSE from BUET.
 
 ### Interests
