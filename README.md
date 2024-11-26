@@ -16,16 +16,16 @@ Graduate in CSE from BUET.
 
 ### Technology Stack ###
 - General Purpose : 
-   C/C++, Java, Python, Node.js
+   C/C++, Java, Python, Node.js, PHP
 
 - Databases : 
-   MongoDB, Oracle PL/SQL, SqLite
+   MongoDB, Oracle PL/SQL, Mysql
 
 - Backend:
    Express.js, Django, Node.js, Spring Boot
    
 - Front End : 
-  HTML, CSS, React.js, JSP Templating
+  HTML, CSS, React.js, JSP Templating, VueJS, Bootstrap
 
 - Tools:
    Git, SVN
